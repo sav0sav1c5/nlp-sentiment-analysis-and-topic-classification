@@ -1,0 +1,6 @@
+# Ignore datasets
+datasets/
+*.csv
+*.tsv
+*.json
+*.zip
